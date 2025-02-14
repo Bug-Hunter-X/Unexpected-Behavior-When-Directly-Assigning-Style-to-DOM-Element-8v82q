@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML error related to directly manipulating the `style` property of a DOM element. The bug involves attempting to set the entire `style` attribute at once, potentially overriding existing styles and causing unexpected behavior. The solution provides a safer and more robust method for applying CSS styles.
